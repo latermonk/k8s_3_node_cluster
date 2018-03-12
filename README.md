@@ -7,3 +7,8 @@ ip：
 10.1.40.70  
 
 ==
+
+Reference:
+
+https://github.com/Orientsoft/kubekit
+
