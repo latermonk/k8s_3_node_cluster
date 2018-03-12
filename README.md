@@ -14,11 +14,12 @@ Reference:
 https://github.com/Orientsoft/kubekit
 
 
-2.实际的例子
+2.实际的例子    
 原文：     
-https://www.sitepoint.com/kubernetes-deploy-node-js-docker-app/
+https://www.sitepoint.com/kubernetes-deploy-node-js-docker-app/     
+
 译文：    
-http://blog.csdn.net/mrqingyu/article/details/76855901
+http://blog.csdn.net/mrqingyu/article/details/76855901  
 
 
 
