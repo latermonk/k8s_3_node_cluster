@@ -27,13 +27,13 @@ http://blog.csdn.net/mrqingyu/article/details/76855901
 ==
 
 ##  部署两个httpd节点
-kubectl run httpd-app --image=httpd --replicas=2
-kubectl run nginx-deployment --image=nginx:1.7.9 --replicas=2
+kubectl run httpd-app --image=httpd --replicas=2    
+kubectl run nginx-deployment --image=nginx:1.7.9 --replicas=2    
 
-查看部署状况：
-kubectl get pod
-kubectl get deployment
-kubectl describe replicaset
+查看部署状况：    
+kubectl get pod     
+kubectl get deployment     
+kubectl describe replicaset      
 
 
 
