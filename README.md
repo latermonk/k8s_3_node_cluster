@@ -36,7 +36,10 @@ kubectl get deployment
 kubectl describe replicaset      
 
 
-
+部署流程：
+1.kubectl create a deployment
+2.deployment create a replicaSet
+3.replicaSet 创建pod
 
 
 
