@@ -10,7 +10,7 @@ docker build -t ibackchina2018/hello-baby:v1   .
 docker push  ibackchina2018/hello-baby:v1        
 
 ##  从dockerhub构建镜像[方法二] 
-使用https://github.com/latermonk/k8s_3_node_cluster/的代码
+使用https://github.com/latermonk/k8s_3_node_cluster/ 的代码
 在 docker hub 构建镜像
 
 #  部署单个应用     
